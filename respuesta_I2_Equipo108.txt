@@ -2,3 +2,7 @@ Equipo 108
 Avalos Leandro Sebastian
 Fernandez Lautaro Nicolas
 Sampietro Franco
+
+
+a) El mismo github te da la herramienta de "Fetch and marge", que se activa al detectar un cambio en el repositorio forkeado.
+b) No puede ni forkear, ni puede hacer un pull. Ambos fork apuntan al mismo repositorio base, por ende solo acepta cambios desde este (Repositorio de Beta).
