@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sampietro Franco IP: 181.28.219.80 Hora: 10:11
+=======
+Fernandez Lautaro Nicolas IP: 192.168.56.1 Hora: 10:42
+>>>>>>> 53faf2ac6630bc0bed1cf40265480590f4ee012a
