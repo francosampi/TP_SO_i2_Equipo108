@@ -6,3 +6,5 @@ Sampietro Franco
 
 a) El mismo github te da la herramienta de "Fetch and marge", que se activa al detectar un cambio en el repositorio forkeado.
 b) No puede ni forkear, ni puede hacer un pull. Ambos fork apuntan al mismo repositorio base, por ende solo acepta cambios desde este (Repositorio de Beta).
+c) Como en el caso anterior no se puede ni forkear ni hacer un pull. Ambos fork apuntan al mismo repositorio base.
+d) No, cuando Beta realiazo un cambio en el repositorio se pudo hacer un fetch and merge para aplicar los cambios en los repositorios de Gamma y alfa y sus datos no se perdieron solo se agregaron los nuevos archivos y su contenido.
